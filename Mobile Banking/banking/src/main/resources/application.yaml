@@ -1,0 +1,10 @@
+# server:
+#    port: 2005
+
+# spring:
+#     application:
+#         name: banking
+#     eureka:
+#         client:
+#             server-uri:
+#             defaultZone: http://localhost:8761/eureka

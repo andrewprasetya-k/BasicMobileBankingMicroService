@@ -1,0 +1,10 @@
+# server:
+#    port: 9
+
+# spring:
+#     application:
+#         name: mbankingpostgre
+#     eureka:
+#         client:
+#             server-uri:
+#             defaultZone: http://localhost:8761/eureka

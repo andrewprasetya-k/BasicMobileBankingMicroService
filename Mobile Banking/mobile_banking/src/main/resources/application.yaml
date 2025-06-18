@@ -1,0 +1,10 @@
+# server:
+#    port: 14
+
+# spring:
+#     application:
+#         name: mobile-banking
+#     eureka:
+#         client:
+#             server-uri:
+#             defaultZone: http://localhost:8761/eureka
